@@ -1,0 +1,1074 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ABC_Car_Traders_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\carupdateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\carupdateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\carupdateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\carupdateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|e:\\abc_car_traders_\\abc_car_traders_\\customercarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customercarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customerdashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customerdashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customerupdateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customerupdateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customerupdateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customerupdateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customercarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customercarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\admindashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\admindashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\adminorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\adminorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\adminorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\adminorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\updatepartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\updatepartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\updatepartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\updatepartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customerdashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customerdashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customerorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customerorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\addpartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\addpartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customerpartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customerpartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customerpartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customerpartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customerorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customerorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\admindashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\admindashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customerdashform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customerdashform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\addcarform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\addcarform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\addcarform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\addcarform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\loginform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\loginform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customerdashform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customerdashform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\addpartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\addpartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\admindashform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\admindashform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customerpartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customerpartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customercarform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customercarform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\registrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\registrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customerupdateform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customerupdateform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\orderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\orderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\addpartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\addpartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\updatepartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\updatepartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\registrationform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\registrationform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\orderform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\orderform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\dashboardform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\dashboardform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customerupdateform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customerupdateform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customerpartform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customerpartform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customerorderform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customerorderform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customerorderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customerorderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\customercarform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\customercarform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\carupdateform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\carupdateform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\carupdateform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\carupdateform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\adminorderform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\adminorderform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\adminorderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\adminorderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|E:\\ABC_Car_Traders_\\abc_car_traders_\\admindashform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{ACECD97B-DF9D-43FA-B076-D3776C0B85BC}|ABC_Car_Traders_\\ABC_Car_Traders_.csproj|solutionrelative:abc_car_traders_\\admindashform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminOrderForm.cs [Design]",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AdminOrderForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\AdminOrderForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AdminOrderForm.cs [Design]*",
+              "RelativeToolTip": "ABC_Car_Traders_\\AdminOrderForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:14:44.317Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminOrderForm.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AdminOrderForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\AdminOrderForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AdminOrderForm.cs*",
+              "RelativeToolTip": "ABC_Car_Traders_\\AdminOrderForm.cs*",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAAANMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T05:31:23.43Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerDashForm.cs [Design]",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerDashForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerDashForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerDashForm.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerDashForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:55:19.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerCarForm.cs [Design]",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerCarForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerCarForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerCarForm.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerCarForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:55:03.079Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarUpdateForm.cs [Design]",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CarUpdateForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CarUpdateForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CarUpdateForm.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Traders_\\CarUpdateForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:08:15.963Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarUpdateForm.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CarUpdateForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CarUpdateForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CarUpdateForm.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\CarUpdateForm.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:57:08.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerUpdateForm.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerUpdateForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerUpdateForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerUpdateForm.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerUpdateForm.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwC4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:54:47.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerUpdateForm.cs [Design]",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerUpdateForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerUpdateForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerUpdateForm.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerUpdateForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:12:38.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerCarForm.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerCarForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerCarForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerCarForm.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerCarForm.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAqwDAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:45.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\DashboardForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\DashboardForm.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\DashboardForm.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAcwGgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:48.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\DashboardForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Traders_\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:12:47.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminDashForm.cs [Design]",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AdminDashForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\AdminDashForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AdminDashForm.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Traders_\\AdminDashForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:14:43.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdatePartForm.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\UpdatePartForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\UpdatePartForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\UpdatePartForm.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\UpdatePartForm.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAIwGQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:50.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdatePartForm.cs [Design]",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\UpdatePartForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\UpdatePartForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\UpdatePartForm.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Traders_\\UpdatePartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:09:11.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\LoginForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\LoginForm.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\LoginForm.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:14:48.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerDashForm.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerDashForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerDashForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerDashForm.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerDashForm.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAMwDMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:46.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerOrderForm.cs [Design]",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerOrderForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerOrderForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerOrderForm.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerOrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T04:26:40.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddCarForm.cs [Design]",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AddCarForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\AddCarForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AddCarForm.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Traders_\\AddCarForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:54:53.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cars.cs [Design]",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\Cars.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\Cars.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\Cars.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Traders_\\Cars.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T05:17:44.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\Form1.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\Form1.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\Form1.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Traders_\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T04:27:34.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\LoginForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\LoginForm.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Traders_\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:14:46.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderForm.cs [Design]",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\OrderForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\OrderForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\OrderForm.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Traders_\\OrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T03:40:51.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegistrationForm.cs [Design]",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\RegistrationForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\RegistrationForm.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Traders_\\RegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:13:10.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddPartForm.cs [Design]",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AddPartForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\AddPartForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AddPartForm.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Traders_\\AddPartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:54:57.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerPartForm.cs [Design]",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerPartForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerPartForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerPartForm.cs [Design]",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerPartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:55:20.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\Form1.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\Form1.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\Form1.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAWwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:40:55.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomerPartForm.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerPartForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerPartForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerPartForm.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerPartForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAWwBoAAACeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:47.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Cars.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\Cars.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\Cars.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\Cars.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\Cars.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAqwE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T06:03:20.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\Form1.Designer.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\Form1.Designer.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T06:21:57.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\packages.config",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\packages.config",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\packages.config",
+              "RelativeToolTip": "ABC_Car_Traders_\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-14T05:17:27.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomerOrderForm.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerOrderForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerOrderForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerOrderForm.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerOrderForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:46.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminDashForm.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AdminDashForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\AdminDashForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AdminDashForm.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\AdminDashForm.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADgvyEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:42:15.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CustomerDashForm.Designer.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerDashForm.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerDashForm.Designer.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerDashForm.Designer.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerDashForm.Designer.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:46.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderForm.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\OrderForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\OrderForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\OrderForm.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\OrderForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:49.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddCarForm.Designer.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AddCarForm.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\AddCarForm.Designer.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AddCarForm.Designer.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\AddCarForm.Designer.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAawMUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:23:16.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddCarForm.resx",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AddCarForm.resx",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\AddCarForm.resx",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AddCarForm.resx",
+              "RelativeToolTip": "ABC_Car_Traders_\\AddCarForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-09-04T18:47:17.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddCarForm.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AddCarForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\AddCarForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AddCarForm.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\AddCarForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:12:43.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\RegistrationForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\RegistrationForm.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\RegistrationForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:50.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\LoginForm.Designer.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\LoginForm.Designer.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\LoginForm.Designer.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAWwPYAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:49.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\LoginForm.resx",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\LoginForm.resx",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\LoginForm.resx",
+              "RelativeToolTip": "ABC_Car_Traders_\\LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-23T11:22:49.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CustomerDashForm.resx",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerDashForm.resx",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerDashForm.resx",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerDashForm.resx",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerDashForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-27T09:23:07.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddPartForm.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AddPartForm.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\AddPartForm.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AddPartForm.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\AddPartForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:42.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AdminDashForm.Designer.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AdminDashForm.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\AdminDashForm.Designer.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AdminDashForm.Designer.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\AdminDashForm.Designer.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAYwBwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:42.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CustomerPartForm.Designer.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerPartForm.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerPartForm.Designer.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerPartForm.Designer.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerPartForm.Designer.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAowNsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:47.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CustomerCarForm.Designer.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerCarForm.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerCarForm.Designer.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerCarForm.Designer.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerCarForm.Designer.cs",
+              "ViewState": "AQIAAB8BAAAAAAAAAAAowC8BAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:45.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\Properties\\Resources.resx",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\Properties\\Resources.resx",
+              "RelativeToolTip": "ABC_Car_Traders_\\Properties\\Resources.resx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-26T15:49:46.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RegistrationForm.Designer.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\RegistrationForm.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\RegistrationForm.Designer.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\RegistrationForm.Designer.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\RegistrationForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:50.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\Program.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\Program.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\Program.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:50.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CustomerUpdateForm.Designer.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerUpdateForm.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerUpdateForm.Designer.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerUpdateForm.Designer.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerUpdateForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:47.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "OrderForm.Designer.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\OrderForm.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\OrderForm.Designer.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\OrderForm.Designer.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\OrderForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:49.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AddPartForm.Designer.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AddPartForm.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\AddPartForm.Designer.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AddPartForm.Designer.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\AddPartForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:42.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:51.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UpdatePartForm.Designer.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\UpdatePartForm.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\UpdatePartForm.Designer.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\UpdatePartForm.Designer.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\UpdatePartForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:51.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\Properties\\Settings.Designer.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:52.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RegistrationForm.resx",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\RegistrationForm.resx",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\RegistrationForm.resx",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\RegistrationForm.resx",
+              "RelativeToolTip": "ABC_Car_Traders_\\RegistrationForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-23T11:22:50.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "OrderForm.resx",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\OrderForm.resx",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\OrderForm.resx",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\OrderForm.resx",
+              "RelativeToolTip": "ABC_Car_Traders_\\OrderForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-23T11:22:49.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DashboardForm.resx",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\DashboardForm.resx",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\DashboardForm.resx",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\DashboardForm.resx",
+              "RelativeToolTip": "ABC_Car_Traders_\\DashboardForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-23T11:22:48.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CustomerUpdateForm.resx",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerUpdateForm.resx",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerUpdateForm.resx",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerUpdateForm.resx",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerUpdateForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-23T11:22:47.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CustomerPartForm.resx",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerPartForm.resx",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerPartForm.resx",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerPartForm.resx",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerPartForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-23T11:22:47.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CustomerOrderForm.resx",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerOrderForm.resx",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerOrderForm.resx",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerOrderForm.resx",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerOrderForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-23T11:22:46.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CustomerOrderForm.Designer.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerOrderForm.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerOrderForm.Designer.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerOrderForm.Designer.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerOrderForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:46.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CustomerCarForm.resx",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerCarForm.resx",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CustomerCarForm.resx",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CustomerCarForm.resx",
+              "RelativeToolTip": "ABC_Car_Traders_\\CustomerCarForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-23T11:22:45.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CarUpdateForm.resx",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CarUpdateForm.resx",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CarUpdateForm.resx",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CarUpdateForm.resx",
+              "RelativeToolTip": "ABC_Car_Traders_\\CarUpdateForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-23T11:22:45.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CarUpdateForm.Designer.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CarUpdateForm.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\CarUpdateForm.Designer.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\CarUpdateForm.Designer.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\CarUpdateForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:44.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AdminOrderForm.resx",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AdminOrderForm.resx",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\AdminOrderForm.resx",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AdminOrderForm.resx",
+              "RelativeToolTip": "ABC_Car_Traders_\\AdminOrderForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-23T11:22:43.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AdminOrderForm.Designer.cs",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AdminOrderForm.Designer.cs",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\AdminOrderForm.Designer.cs",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AdminOrderForm.Designer.cs",
+              "RelativeToolTip": "ABC_Car_Traders_\\AdminOrderForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:22:43.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AdminDashForm.resx",
+              "DocumentMoniker": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AdminDashForm.resx",
+              "RelativeDocumentMoniker": "ABC_Car_Traders_\\AdminDashForm.resx",
+              "ToolTip": "E:\\ABC_Car_Traders_\\ABC_Car_Traders_\\AdminDashForm.resx",
+              "RelativeToolTip": "ABC_Car_Traders_\\AdminDashForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-23T11:22:43.058Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
